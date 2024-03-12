@@ -1,4 +1,7 @@
 Run code using:  nest start
+
+localhost:3000/graphql
+
 Sample Query to insert User:
   mutation {
   signUp(
